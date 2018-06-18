@@ -1,3 +1,19 @@
 body {
     background-image: url("../images/what-the-hex-dark.png")
 }
+
+.wrapper {
+    margin-bottom: 75px;
+}
+
+
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;   
+}
+
+.ftrTxt {
+    position: relative;
+    top: 15px;
+}
