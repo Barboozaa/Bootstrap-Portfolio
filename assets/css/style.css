@@ -6,6 +6,13 @@ body {
     margin-bottom: 75px;
 }
 
+.navlist {
+    margin-left: 60%;
+}
+
+.aboutMe {
+    text-indent: 2rem;
+}
 
 footer {
     width: 100%;
